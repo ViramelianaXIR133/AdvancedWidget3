@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     String nama;
     ActivityMainBinding binding;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
